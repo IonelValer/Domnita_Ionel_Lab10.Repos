@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domnita_Ionel_Lab10", "Domnita_Ionel_Lab10.csproj", "{3DE35D01-8AB0-4AA9-AD52-D48B3B885289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{74519A03-D207-4F81-9D45-CD6F6E9C7167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE35D01-8AB0-4AA9-AD52-D48B3B885289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE35D01-8AB0-4AA9-AD52-D48B3B885289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE35D01-8AB0-4AA9-AD52-D48B3B885289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE35D01-8AB0-4AA9-AD52-D48B3B885289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74519A03-D207-4F81-9D45-CD6F6E9C7167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74519A03-D207-4F81-9D45-CD6F6E9C7167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74519A03-D207-4F81-9D45-CD6F6E9C7167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74519A03-D207-4F81-9D45-CD6F6E9C7167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FD64685-B0D7-4030-8421-169FA4CBE18F}
+	EndGlobalSection
+EndGlobal
